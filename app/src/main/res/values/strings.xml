@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrintTouch</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Exit</string>
+    <string name="intro">Capture a picture to crop!</string>
+    <string name="picture">Picture</string>
+    <string name="capture">Capture Image</string>
+</resources>
